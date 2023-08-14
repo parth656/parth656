@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- adding photo -->
 
-![masterhead](https://github.com/parth656/parth656/profile.png)
+![MasterHead](https://github.com/parth656/parth656/blob/mainprofile.png)
 
 
 ![masterhead](https://github.com/parth656/parth656/profile.png)
