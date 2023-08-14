@@ -4,6 +4,7 @@
 ![masterhead](https://github.com/parth656/parth656/profile.png)
 
 
+![masterhead](https://github.com/parth656/parth656/profile.png)
 https://auth.geeksforgeeks.org/user/parthbijpuriya416/
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=parth656&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
