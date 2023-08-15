@@ -17,7 +17,7 @@
 <a href="https://www.leetcode.com/parthbijpuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="callme_colonel" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/parthbijpuriya416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishabh208020" height="30" width="40" /></a>
 </p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth656&show_icons=true&locale=en&layout=compact" alt="parth656" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth656&show_icons=true&locale=en&layout=compact" alt="parth656" /></p>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=parth656)](https://github.com/anuraghazra/github-readme-stats)
 
