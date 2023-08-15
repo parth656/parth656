@@ -3,6 +3,7 @@
 
 ![MasterHead](https://github.com/parth656/parth656/blob/main/profile.png?raw=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth656&label=Profile%20views&color=0e75b6&style=flat" alt="parth656" /> </p>
+<img src="https://tenor.com/view/pixel-night-gif-21412193" align=right>
 - 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Python, C, JavaScript, Java**
