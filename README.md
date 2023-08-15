@@ -19,7 +19,7 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth656&show_icons=true&locale=en&layout=compact" alt="parth656" /></p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=parth656)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth656">(https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=parth656)](https://git.io/streak-stats)
 
