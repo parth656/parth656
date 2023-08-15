@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, C, JavaScript, C++**
 
-- ⚡ Fun fact **<a href="#">DON'T CLICK HERE</a>**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
