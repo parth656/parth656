@@ -3,6 +3,12 @@
 
 ![MasterHead](https://github.com/parth656/parth656/blob/main/profile.png?raw=true)
 
+- 🌱 I’m currently learning **MERN**
+
+- 💬 Ask me about **Python, C, JavaScript, Java**
+
+- ⚡ Fun fact **<a href="#">DON'T CLICK HERE</a>**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/parth-bijpuriya-821786228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="get-rishabh-verma" height="30" width="40" /></a>
