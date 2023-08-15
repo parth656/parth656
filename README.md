@@ -6,7 +6,7 @@
 <img align="right" width="500px" alt="GIF" src="https://media.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif"/>
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Python, C, JavaScript, Java**
+- 💬 Ask me about **Python, C, JavaScript, C++**
 
 - ⚡ Fun fact **<a href="#">DON'T CLICK HERE</a>**
 
