@@ -9,7 +9,7 @@
 - 💬 Ask me about **Python, C, JavaScript, C++**
 
 
-![GitHub Actions](https://github.com/parth656/musicfy/workflows/your-workflow-name/badge.svg)
+
 
 
 
