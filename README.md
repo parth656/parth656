@@ -28,7 +28,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=parth656">
 
 <img align="center" src="https://streak-stats.demolab.com/?user=parth656">
-[![An image of @parth1675's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parth1675)]
 <!--
 **parth656/parth656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
