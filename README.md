@@ -1,7 +1,6 @@
 ### Hi there 👋
 <!-- adding photo -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth656&label=Profile%20views&color=0e75b6&style=flat" alt="parth656" /> </p>
 <img align="right" width="500px" alt="GIF" src="https://media.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif"/>
 - 🌱 I’m currently learning **MERN
 - 💬 Ask me about **Python, C, JavaScript, C++**
@@ -37,6 +36,7 @@
 <h1 align="center">Hi 👋, I'm Parth Bijpuriya</h1>
 ![MasterHead](https://github.com/parth656/parth656/blob/main/profile.png?raw=true)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth656&label=Profile%20views&color=0e75b6&style=flat" alt="parth656" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth656&label=Profile%20views&color=0e75b6&style=flat" alt="parth656" /> </p>
 
 
