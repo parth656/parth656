@@ -4,7 +4,7 @@ AI/ML Developer building real-world computer vision and NLP applications.
 
 ## 🚀 Featured Projects
 
-### [Drowsiness Detection System](https://github.com/parth656/drowsiness-detection)
+### [Drowsiness Detection System](https://github.com/driveawakee/drive-awake)
 Real-time driver fatigue detection using TensorFlow and OpenCV
 - 🎯 92%+ accuracy on validation set
 - ⚡ Real-time video stream processing
