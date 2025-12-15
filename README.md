@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Parth Bijpuriya
 
-## 🔥 ML Engineer | Top 4% Google Kickstart 2022 | National Hackathon Winner
+## 🔥 ML Engineer | Top 4% Google Kickstart 2022 
 
 **Specializing in Computer Vision & Speech Processing**
 
@@ -46,7 +46,6 @@
 | Achievement | Details |
 |-------------|---------|
 | 🥇 **Google Kickstart 2022** | **Top 4% Globally** (10,000+ participants) |
-| 🏆 **Hack CBS 6.0** | **Winner** - AI-powered finance assistant |
 | 💻 **Competitive Programming** | 260+ LeetCode, 120+ GeeksforGeeks |
 | 🎓 **Education** | B.Tech CSE, PSIT Kanpur (2021-2025) |
 
