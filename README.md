@@ -190,17 +190,33 @@
 
 ---
 
+
 ## 🔗 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/linked-in-alt.svg)](https://linkedin.com/in/parth-bijpuriya-821786228)
-[![LeetCode](https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/leet-code.svg)](https://www.leetcode.com/parthbijpuriya)
-[![GeeksforGeeks](https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/geeks-for-geeks.svg)](https://auth.geeksforgeeks.org/user/parthbijpuriya416)
-[![HackerRank](https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/hackerrank.svg)](https://www.hackerrank.com/AIMLPARTH31717)
-[![CodeChef](https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/codechef.svg)](https://www.codechef.com/users/parthhacker)
+<a href="https://linkedin.com/in/parth-bijpuriya-821786228">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.leetcode.com/parthbijpuriya">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28" />
+</a>
+&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/parthbijpuriya416">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="28" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/AIMLPARTH31717">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="28" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/parthhacker">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="28" />
+</a>
 
 </div>
+
 
 ---
 
