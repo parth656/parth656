@@ -102,40 +102,6 @@
 
 ---
 
-## 💼 Professional Summary
-
-```python
-class AIMLEngineer:
-    def __init__(self):
-        self.name = "Parth Bijpuriya"
-        self.role = "AI/ML Engineer"
-        self.graduation = "July 2025"
-        self.location = "Kanpur, India"
-      
-    def skills(self):
-        return {
-            'languages': ['Python', 'C++', 'JavaScript', 'SQL'],
-            'ml_frameworks': ['TensorFlow', 'PyTorch', 'scikit-learn'],
-            'cv_nlp': ['OpenCV', 'Whisper', 'Transformers'],
-            'backend': ['FastAPI', 'Flask', 'Node.js'],
-            'databases': ['PostgreSQL', 'MongoDB', 'SQLite'],
-            'deployment': ['Docker', 'HuggingFace', 'AWS']
-        }
-  
-    def achievements(self):
-        return [
-            "Top 4% - Google Kickstart 2022",
-            "1000+ users on production AI apps",
-            "92%+ model accuracy across projects",
-            "260+ LeetCode problems solved"
-        ]
-  
-    def currently_working_on(self):
-        return "AI Speech Therapy App with 1000+ active users"
-```
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
