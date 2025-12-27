@@ -1,146 +1,192 @@
-<div align="center">
-
-# 👋 Hi, I'm Parth Bijpuriya
-
-### AI / Machine Learning Engineer  
-**Available for Immediate Joining**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-bijpuriya-821786228)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/parthbijpuriya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthbijpuriya416@gmail.com)
-
-🎯 **Open to ML Engineer / AI Developer roles**  
-🏆 **Top 4% — Google Kick Start 2022**  
-💻 **260+ LeetCode | Multiple production-grade ML projects**
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🩺 NeuroSpeech Therapy Pro  
-🔗 **Live Demo:** https://huggingface.co/spaces/parthbijpuriya/neurospeech  
-
-**AI-powered speech therapy platform for pronunciation and fluency improvement**
-
-- 🎙️ High-accuracy speech-to-text using OpenAI Whisper  
-- 📊 12 structured therapy & assessment modules  
-- ⚡ Real-time phonetic feedback with low latency  
-- 💾 Persistent session tracking using SQLite  
-
-**Tech Stack:**  
-`Python` · `Streamlit` · `OpenAI Whisper` · `NLP` · `SQLite`
-
----
-
-### 🚗 Drive-Awake  
-🔗 **Repository:** https://github.com/driveawakee/drive-awake  
-
-**Real-time driver drowsiness detection system**
-
-- 👁️ CNN-based eye-state classification  
-- 📹 Real-time video processing with OpenCV  
-- 🔔 Audio alert on drowsiness detection  
-- 🚀 Optimized inference for low-latency performance  
-
-**Tech Stack:**  
-`TensorFlow` · `CNN` · `OpenCV` · `FastAPI` · `Docker`
-
----
-
-### 😊 Emotion Detection  
-🔗 **Repository:** https://github.com/parth656/emotion_detect  
-
-**Real-time facial emotion recognition system**
-
-- 🎭 7-class emotion classification  
-- ⚡ Fast inference on CPU  
-- 🖥️ Desktop application with PyQt5 GUI  
-
-**Tech Stack:**  
-`TensorFlow` · `OpenCV` · `Computer Vision` · `PyQt5`
-
----
-
-### 🎵 Music Recommendation System  
-🔗 **Repository:** https://github.com/parth656/music_rec  
-
-**Personalized music recommendation platform**
-
-- 🎼 Hybrid recommender (content + collaborative filtering)  
-- 📊 User similarity via clustering  
-- 🎧 Spotify API-based song metadata integration  
-
-**Tech Stack:**  
-`Python` · `Flask` · `scikit-learn` · `Spotify API`
-
----
-
-## 🧠 Technical Skills
-
-### Programming Languages
-- **Python**
-- **C++**
-- **JavaScript**
-- **SQL**
-
-### Machine Learning & AI
-- TensorFlow  
-- PyTorch  
-- OpenCV  
-- scikit-learn  
-- NLP & Speech Processing  
-
-### Frameworks & Tools
-- FastAPI · Flask · Streamlit  
-- Docker · Git  
-- Hugging Face Spaces  
-
----
-
-## 📊 GitHub Statistics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parth656&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parth656&layout=compact&theme=radical&hide_border=true)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Parth+Bijpuriya;AI%2FML+Engineer;Computer+Vision+%26+NLP+Specialist;Top+4%25+Google+Kickstart+2022" alt="Typing SVG" />
 </div>
 
----
-
-## 🏆 Achievements
-
-- 🥇 **Top 4% globally — Google Kick Start 2022**  
-- 💻 **260+ LeetCode problems solved**  
-- 📝 **120+ GeeksforGeeks problems solved**  
-- 🚀 **Multiple ML projects deployed**  
-- 🌐 **Live application hosted on Hugging Face Spaces**
+<h3 align="center">🚀 Building Production-Ready AI Systems | 92%+ Model Accuracy | 1000+ Users Impacted</h3>
 
 ---
 
-## 🔭 Currently Focused On
+## 🎯 About Me
 
-- Building production-ready ML systems  
-- Improving model efficiency & deployment workflows  
-- Learning MLOps fundamentals  
-- Actively interviewing for **ML Engineer / AI Developer roles**
+- 🔭 Currently working on: **AI Speech Therapy Application** (1000+ active users)
+- 🌱 Learning: **Advanced MLOps**, **Model Optimization**, **System Design**
+- 💬 Ask me about: **TensorFlow, Computer Vision, NLP, FastAPI, Production ML**
+- 📫 Reach me: **parthbijpuriya416@gmail.com**
+- ⚡ Achievement: **Top 4% Globally - Google Kickstart 2022**
+- 🎓 Graduated: **July 2025** from PSIT Kanpur
+- 💼 Open to: **Full-time ML Engineer roles**
 
 ---
 
-## 📫 Contact
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI/ML & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parth656&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parth656&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth656&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=parth656&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🏆 Achievements & Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parth656&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</p>
+
+### 🎯 Competitive Programming
+
+- 🥇 **Top 4% Globally** - Google Kickstart 2022
+- 💻 **260+ Problems** - LeetCode
+- 📚 **120+ Problems** - GeeksforGeeks
+- 🏅 **Winner** - National AI Hackathons
+
+### 📈 GitHub Metrics
+
+- ⭐ Total Stars Earned: **10+**
+- 🍴 Total Forks: **5+**
+- 📦 Public Repositories: **15**
+- 👥 Followers: Growing!
+
+---
+
+## 💼 Professional Summary
+
+```python
+class AIMLEngineer:
+    def __init__(self):
+        self.name = "Parth Bijpuriya"
+        self.role = "AI/ML Engineer"
+        self.graduation = "July 2025"
+        self.location = "Kanpur, India"
+      
+    def skills(self):
+        return {
+            'languages': ['Python', 'C++', 'JavaScript', 'SQL'],
+            'ml_frameworks': ['TensorFlow', 'PyTorch', 'scikit-learn'],
+            'cv_nlp': ['OpenCV', 'Whisper', 'Transformers'],
+            'backend': ['FastAPI', 'Flask', 'Node.js'],
+            'databases': ['PostgreSQL', 'MongoDB', 'SQLite'],
+            'deployment': ['Docker', 'HuggingFace', 'AWS']
+        }
+  
+    def achievements(self):
+        return [
+            "Top 4% - Google Kickstart 2022",
+            "1000+ users on production AI apps",
+            "92%+ model accuracy across projects",
+            "260+ LeetCode problems solved"
+        ]
+  
+    def currently_working_on(self):
+        return "AI Speech Therapy App with 1000+ active users"
+```
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/parth-bijpuriya-821786228">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/parth656">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:parthbijpuriya416@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/parthbijpuriya">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parth656&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parth656&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>⚡ "Building AI that makes a difference, one project at a time" ⚡</i>
+</p>
 
 <div align="center">
 
-📧 **Email:** parthbijpuriya416@gmail.com  
-📱 **Phone:** +91 9792670745  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/parth-bijpuriya-821786228)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repos-black?style=for-the-badge&logo=github)](https://github.com/parth656)
-
-⭐️ *Thanks for visiting my profile!*
+### Show some ❤️ by starring some of my repositories!
 
 </div>
+```
+
+
+```
+
 
