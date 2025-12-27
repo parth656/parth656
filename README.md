@@ -2,15 +2,16 @@
 
 # 👋 Hi, I'm Parth Bijpuriya
 
-## AI/ML Engineer | Available for Immediate Joining
+### AI / Machine Learning Engineer  
+**Available for Immediate Joining**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-bijpuriya-821786228)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/parthbijpuriya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthbijpuriya416@gmail.com)
 
-🎯 **Open to ML Engineer / AI Developer Opportunities**  
-🏆 **Top 4% Google Kickstart 2022**  
-💻 **260+ LeetCode | 4 Production-Ready ML Projects**
+🎯 **Open to ML Engineer / AI Developer roles**  
+🏆 **Top 4% — Google Kick Start 2022**  
+💻 **260+ LeetCode | Multiple production-grade ML projects**
 
 </div>
 
@@ -18,82 +19,91 @@
 
 ## 🚀 Featured Projects
 
-### 🩺 [NeuroSpeech Therapy Pro](https://huggingface.co/spaces/parthbijpuriya/neurospeech) - LIVE ON HUGGINGFACE
-**AI-powered speech therapy platform**
-- 🎙️ 95% transcription accuracy with OpenAI Whisper
-- 📊 12 comprehensive therapy modules
-- ⚡ Real-time phonetic analysis (<2s latency)
-- 💾 SQLite + Google Drive persistence
+### 🩺 NeuroSpeech Therapy Pro  
+🔗 **Live Demo:** https://huggingface.co/spaces/parthbijpuriya/neurospeech  
 
-**Tech:** `Python` `OpenAI Whisper` `Streamlit` `SQLite` `NLP`
+**AI-powered speech therapy platform for pronunciation and fluency improvement**
 
----
+- 🎙️ High-accuracy speech-to-text using OpenAI Whisper  
+- 📊 12 structured therapy & assessment modules  
+- ⚡ Real-time phonetic feedback with low latency  
+- 💾 Persistent session tracking using SQLite  
 
-### 🚗 [Drive-Awake](https://github.com/driveawakee/drive-awake)
-**Real-time drowsiness detection system**
-- 🎯 92% accuracy on test set
-- 📹 30 FPS real-time processing
-- ⚡ <100ms detection latency
-- 🔔 Instant audio alert system
-
-**Tech:** `TensorFlow` `OpenCV` `FastAPI` `CNN` `Docker`
+**Tech Stack:**  
+`Python` · `Streamlit` · `OpenAI Whisper` · `NLP` · `SQLite`
 
 ---
 
-### 😊 [Emotion Detection](https://github.com/parth656/emotion_detect)
-**Real-time facial emotion recognition**
-- 🎭 7-state emotion classification
-- ⚡ <500ms inference time
-- 🖥️ Desktop GUI with PyQt5
-- 📊 25+ FPS processing
+### 🚗 Drive-Awake  
+🔗 **Repository:** https://github.com/driveawakee/drive-awake  
 
-**Tech:** `TensorFlow` `OpenCV` `PyQt5` `Computer Vision`
+**Real-time driver drowsiness detection system**
 
----
+- 👁️ CNN-based eye-state classification  
+- 📹 Real-time video processing with OpenCV  
+- 🔔 Audio alert on drowsiness detection  
+- 🚀 Optimized inference for low-latency performance  
 
-### 🎵 [Music Recommender](https://github.com/parth656/music_rec)
-**AI-powered music discovery platform**
-- 🎼 Hybrid recommendation system
-- 🤖 K-means + Collaborative filtering
-- ⚡ <2s inference time
-- 🎧 Spotify API integration
-
-**Tech:** `Flask` `scikit-learn` `Spotify API` `K-means`
+**Tech Stack:**  
+`TensorFlow` · `CNN` · `OpenCV` · `FastAPI` · `Docker`
 
 ---
 
-## 💻 Tech Stack
+### 😊 Emotion Detection  
+🔗 **Repository:** https://github.com/parth656/emotion_detect  
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Real-time facial emotion recognition system**
 
-### ML/AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+- 🎭 7-class emotion classification  
+- ⚡ Fast inference on CPU  
+- 🖥️ Desktop application with PyQt5 GUI  
 
-### Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
+**Tech Stack:**  
+`TensorFlow` · `OpenCV` · `Computer Vision` · `PyQt5`
 
 ---
 
-## 📊 GitHub Stats
+### 🎵 Music Recommendation System  
+🔗 **Repository:** https://github.com/parth656/music_rec  
+
+**Personalized music recommendation platform**
+
+- 🎼 Hybrid recommender (content + collaborative filtering)  
+- 📊 User similarity via clustering  
+- 🎧 Spotify API-based song metadata integration  
+
+**Tech Stack:**  
+`Python` · `Flask` · `scikit-learn` · `Spotify API`
+
+---
+
+## 🧠 Technical Skills
+
+### Programming Languages
+- **Python**
+- **C++**
+- **JavaScript**
+- **SQL**
+
+### Machine Learning & AI
+- TensorFlow  
+- PyTorch  
+- OpenCV  
+- scikit-learn  
+- NLP & Speech Processing  
+
+### Frameworks & Tools
+- FastAPI · Flask · Streamlit  
+- Docker · Git  
+- Hugging Face Spaces  
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth656&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parth656&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parth656&layout=compact&theme=radical&hide_border=true)
 
@@ -103,39 +113,34 @@
 
 ## 🏆 Achievements
 
-- 🥇 **Top 4% Globally** - Google Kickstart 2022
-- 💻 **260+ LeetCode** Problems Solved
-- 📝 **120+ GeeksforGeeks** Problems Solved
-- 🚀 **4 Production ML Projects** Deployed
-- 🎯 **1 Live Application** on HuggingFace Spaces
+- 🥇 **Top 4% globally — Google Kick Start 2022**  
+- 💻 **260+ LeetCode problems solved**  
+- 📝 **120+ GeeksforGeeks problems solved**  
+- 🚀 **Multiple ML projects deployed**  
+- 🌐 **Live application hosted on Hugging Face Spaces**
 
 ---
 
-## 🎯 Currently
+## 🔭 Currently Focused On
 
-- 🔭 Building production-ready AI applications
-- 🌱 Learning advanced MLOps and model optimization
-- 👯 **Seeking ML Engineer / AI Developer opportunities**
-- 💬 Ask me about Python, TensorFlow, OpenCV, or ML deployment
-- 📫 **Available for immediate joining**
+- Building production-ready ML systems  
+- Improving model efficiency & deployment workflows  
+- Learning MLOps fundamentals  
+- Actively interviewing for **ML Engineer / AI Developer roles**
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Contact
 
 <div align="center">
 
-**💼 Open to full-time ML Engineer opportunities | Immediate Joining**
+📧 **Email:** parthbijpuriya416@gmail.com  
+📱 **Phone:** +91 9792670745  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-bijpuriya-821786228)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthbijpuriya416@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parth656?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/parth-bijpuriya-821786228)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repos-black?style=for-the-badge&logo=github)](https://github.com/parth656)
 
-**📧** parthbijpuriya416@gmail.com  
-**📱** +91 9792670745
-
----
-
-⭐️ From [parth656](https://github.com/parth656)
+⭐️ *Thanks for visiting my profile!*
 
 </div>
+
