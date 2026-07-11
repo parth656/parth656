@@ -10,7 +10,7 @@ AI / Machine Learning Engineer • Computer Vision • NLP • Production ML
 - 🏆 **Top 4% globally – Google Kickstart 2022**
 - 💼 Open to **ML Engineer / AI Developer roles**
 - 🔭 Interested in **real-world AI systems & deployment**
-- 🌱 Learning **MLOps fundamentals, model optimization, system design**
+- 🌱 Learning **MLOps , model optimization**
 
 📫 **Email:** parthbijpuriya416@gmail.com
 
