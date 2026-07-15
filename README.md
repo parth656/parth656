@@ -45,27 +45,17 @@ Personalized music recommendation engine.
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · C++ · JavaScript · SQL
-**ML / DL:** TensorFlow · PyTorch · scikit-learn · OpenCV · Hugging Face
-**Backend:** FastAPI · Flask
-**Databases:** PostgreSQL · MongoDB · SQLite
+**Languages:** Python · C++ · JavaScript · SQL  
+**ML / DL:** TensorFlow · PyTorch · scikit-learn · OpenCV · Hugging Face  
+**Backend:** FastAPI · Flask  
+**Databases:** PostgreSQL · MongoDB · SQLite  
 **Tools:** Docker · Git · Linux
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  eme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  ame=true&row=1&column=7" alt="Trophies" />
-</p>
+![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parth656&show_icons=true&theme=tes](https://github-readme-stats.vercel.app/api/top-langs/?username=parth656&layout=compact&theTrophies](https://github-profile-trophy.vercel.app/?username=parth656&theme=tokyonight&no-fr=1&column=7
 
 ---
 
@@ -84,5 +74,6 @@ Personalized music recommendation engine.
 - 💻 GitHub: https://github.com/parth656
 - 📧 Email: parthbijpuriya416@gmail.com
 
-<p align="center"><i>"Building practical AI systems with real-world impact."</i></p>
+---
 
+<p align="center"><i>"Building practical AI systems with real-world impact."</i></p>
