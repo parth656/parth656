@@ -5,7 +5,6 @@
 ### About
 
 - 🎓 B.Tech in Computer Science — PSIT Kanpur (2025)
-- 💼 Graduate Engineer Trainee at **LTIMindtree**, currently in the Kalinga training program
 - 🔭 Working across RAG pipelines, LangChain/LangGraph agents, and LLM fine-tuning
 - 🗣️ Long-running personal project in **speech technology for accessibility** — see NeuroSpeech below, my most personally meaningful work
 - ⚙️ Most local LLM work (Ollama, fine-tuning experiments) happens on a resource-constrained laptop — Ryzen 5 5500U, 8GB RAM, integrated GPU, Fedora — a running constraint across several projects
