@@ -11,10 +11,6 @@
 - ⚙️ Most local LLM work (Ollama, fine-tuning experiments) happens on a resource-constrained laptop — Ryzen 5 5500U, 8GB RAM, integrated GPU, Fedora — a running constraint across several projects
 - 🏆 Top 4% globally, Google Kickstart 2022 — 380+ problems solved across LeetCode & GeeksforGeeks
 
-### Currently
-
-Preparing for a Milestone 4 technical assessment covering Graph RAG, LangGraph agent architecture, multi-agent systems, and MLOps (MLflow, FastAPI, Docker, Kubernetes). Several of the projects below are direct hands-on practice for it.
-
 ---
 
 ### Featured Projects
@@ -27,7 +23,7 @@ Preparing for a Milestone 4 technical assessment covering Graph RAG, LangGraph a
 
 **[RAGHAVA-BOT-Q-A](https://github.com/parth656/RAGHAVA-BOT-Q-A)** — a Flask Q&A bot combining hybrid retrieval (dense embeddings + TF-IDF) with Gemini generation, plus an agent layer that acts on detected intent, like exporting an answer to PDF or emailing it out.
 
-**[Qwen2.5-7B Fine-tune](https://huggingface.co/parthbijpuriya/qwen2.5-7b-finetuned-v2)** — fine-tuned with LoRA/QLoRA via Unsloth on Kaggle's dual T4 GPUs, benchmarked with lm-eval on HellaSwag and ARC.
+
 
 <details>
 <summary><b>Other builds</b></summary>
@@ -35,8 +31,6 @@ Preparing for a Milestone 4 technical assessment covering Graph RAG, LangGraph a
 
 - **[Emotion Detection](https://github.com/parth656/emotion_detect)** — real-time facial emotion recognition, OpenCV + PyQt5
 - **[Drive-Awake](https://github.com/driveawakee/drive-awake)** (fork) — driver-fatigue detection with TensorFlow + eye-aspect-ratio, 92%+ accuracy
-- **[Music Recommendation](https://github.com/parth656/music_rec)** — a personalized recommendation engine
-- **[Competitive programming](https://github.com/parth656/Leetcode-question)** — 380+ solved problems across LeetCode & GeeksforGeeks
 
 </details>
 
