@@ -1,124 +1,83 @@
-<h1 align="center">Hi 👋, I'm Parth Bijpuriya</h1>
+<div align="center">
 
-<h3 align="center">AI / Machine Learning Engineer • Computer Vision • NLP</h3>
+<br>
 
-<p align="center">
-&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/parth656?style=for-the-badge&logo=github&label=Followers&color=1f6feb" />
-&nbsp;&nbsp;/parth656?style=for-the-badge&logo=github&label=Stars&color=1f6feb" />
-</p>
+### About
 
----
+- 🎓 B.Tech in Computer Science — PSIT Kanpur (2025)
+- 💼 Graduate Engineer Trainee at **LTIMindtree**, currently in the Kalinga training program
+- 🔭 Working across RAG pipelines, LangChain/LangGraph agents, and LLM fine-tuning
+- 🗣️ Long-running personal project in **speech technology for accessibility** — see NeuroSpeech below, my most personally meaningful work
+- ⚙️ Most local LLM work (Ollama, fine-tuning experiments) happens on a resource-constrained laptop — Ryzen 5 5500U, 8GB RAM, integrated GPU, Fedora — a running constraint across several projects
+- 🏆 Top 4% globally, Google Kickstart 2022 — 380+ problems solved across LeetCode & GeeksforGeeks
 
-## 👋 About Me
+### Currently
 
-- 🎓 **B.Tech (2025)** — PSIT Kanpur
-- 🏆 **Top 4% globally — Google Kickstart 2022**
-- 💼 Open to **ML Engineer / AI Developer** roles
-- 🔭 Interested in **real-world AI systems & deployment**
-- 🌱 Currently learning **MLOps & model optimization**
-- 📫 Email: **parthbijpuriya416@gmail.com**
+Preparing for a Milestone 4 technical assessment covering Graph RAG, LangGraph agent architecture, multi-agent systems, and MLOps (MLflow, FastAPI, Docker, Kubernetes). Several of the projects below are direct hands-on practice for it.
 
 ---
 
-## 🚀 Featured Projects
+### Featured Projects
 
-### 🩺 NeuroSpeech Therapy Pro
-🔗 https://huggingface.co/spaces/parthbijpuriya/neurospeech
+**[NeuroSpeech](https://huggingface.co/spaces/parthbijpuriya/neurospeech)** — my flagship project. An AI speech-therapy platform: Whisper transcription, phoneme-level (IPA) pronunciation analysis, adaptive practice plans, and SQLite progress tracking. → [source](https://github.com/parth656/neurospeech)
 
-AI-powered speech therapy platform.
-- Speech-to-text with **OpenAI Whisper**
-- Pronunciation & fluency practice modules
-- Session history stored using **SQLite**
-- Deployed on **Hugging Face Spaces**
+**[SpeechFix](https://github.com/parth656/speech)** & **[Misarticulation Coach](https://github.com/parth656/misarticulation-coach)** — two builds of the same idea: catch what someone *actually* said, phoneme by phoneme, instead of what Whisper assumes they meant to say. SpeechFix targets Hugging Face Spaces (wav2vec2 + Piper); Misarticulation Coach rebuilds every Hugging-Face-hosted piece as GitHub-hosted or offline (Allosaurus, espeak-ng) so it also runs behind a locked-down corporate network.
 
-### 🚗 Drive-Awake
-🔗 https://github.com/driveawakee/drive-awake
+**[LTM-RAG](https://github.com/parth656/LTM-RAG)** — a modular RAG pipeline: document loading → chunking → Chroma vector store → retrieval → Gemini generation, built with LangChain and HuggingFace embeddings.
 
-Real-time driver drowsiness detection system.
+**[RAGHAVA-BOT-Q-A](https://github.com/parth656/RAGHAVA-BOT-Q-A)** — a Flask Q&A bot combining hybrid retrieval (dense embeddings + TF-IDF) with Gemini generation, plus an agent layer that acts on detected intent, like exporting an answer to PDF or emailing it out.
 
-### 😊 Emotion Detection
-🔗 https://github.com/parth656/emotion_detect
+**[Qwen2.5-7B Fine-tune](https://huggingface.co/parthbijpuriya/qwen2.5-7b-finetuned-v2)** — fine-tuned with LoRA/QLoRA via Unsloth on Kaggle's dual T4 GPUs, benchmarked with lm-eval on HellaSwag and ARC.
 
-Facial emotion recognition system.
+<details>
+<summary><b>Other builds</b></summary>
+<br>
 
-### 🎵 Music Recommendation System
-🔗 https://github.com/parth656/music_rec
+- **[Emotion Detection](https://github.com/parth656/emotion_detect)** — real-time facial emotion recognition, OpenCV + PyQt5
+- **[Drive-Awake](https://github.com/driveawakee/drive-awake)** (fork) — driver-fatigue detection with TensorFlow + eye-aspect-ratio, 92%+ accuracy
+- **[Music Recommendation](https://github.com/parth656/music_rec)** — a personalized recommendation engine
+- **[Competitive programming](https://github.com/parth656/Leetcode-question)** — 380+ solved problems across LeetCode & GeeksforGeeks
 
-Personalized music recommendation engine.
+</details>
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-<p align="center">
-badge&logo=python&logoColor=white" />
-?style=for-the-badge&logo=cplusplus&logoColor=white" />
-1E?style=for-the-badge&logo=javascript&logoColor=black" />
-479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<p align="center">
-io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-ge&logo=scikitlearn&logoColor=white" />
-E8?style=for-the-badge&logo=opencv&logoColor=white" />
--FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
+**ML / LLM**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-<p align="center">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-ED?style=for-the-badge&logo=docker&logoColor=white" />
-ge&logo=git&logoColor=white" />
-?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+**Infra / MLOps**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<p align="center">
-791?style=for-the-badge&logo=postgresql&logoColor=white" />
-A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=parth656&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-<p align="center">
-/stars/parth656?style=flat-square&logo=github&label=Total%20Stars&color=yellow" />
-io/github/followers/parth656?style=flat-square&logo=github&label=Followers&color=blue" />
-Problems-orange?style=flat-square&logo=leetcode" />
-F8D46?style=flat-square&logo=geeksforgeeks" />
-</p>
+**Data**
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-## 🏆 Achievements
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=parth656&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="70%" />
+</div>
 
-- 🥇 **Top 4% globally** — Google Kickstart 2022
-- 💻 **260+ problems** solved on LeetCode
-- 📚 **120+ problems** solved on GeeksforGeeks
-- 🚀 Multiple ML projects deployed to production
+<br>
 
----
-
-## 📫 Connect With Me
-
-<p align="center">
-parth-bijpuriya-821786228" target="_blank">
-kedin&logoColor=white" />
-</a>
-<a href="https://github.com/parth656" target="_blank">
-for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:parthbijpuriya416@gmail.com">
-.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
-
----
-
-<p align="center"><i>"Building practical AI systems with real-world impact."</i></p>
+<div align="center">
