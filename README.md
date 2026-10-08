@@ -1,142 +1,143 @@
 <div align="center">
 
-# Hi 👋, I'm **Parth Bijpuriya**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Parth%20Bijpuriya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20GenAI%20%E2%80%A2%20RAG%20%E2%80%A2%20Speech%20AI&descAlignY=58&descSize=18" width="100%"/>
 
-### AI • Machine Learning • Generative AI • RAG • Speech AI
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Building+LLM+%26+RAG+Applications;Speech+AI+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=Software+Engineer+%40+LTIMindtree+(Business+AI);Building+LLM%2C+RAG+%26+Agentic+AI+Systems;Speech+AI+for+Accessibility;Python+%E2%80%A2+FastAPI+%E2%80%A2+LangChain+%E2%80%A2+LangGraph" alt="Typing SVG" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=parth656&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/parth656?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/parth656?style=for-the-badge"/>
+  <a href="https://huggingface.co/parthbijpuriya"><img src="https://img.shields.io/badge/Hugging%20Face-parthbijpuriya-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="https://huggingface.co/spaces/parthbijpuriya/neurospeech"><img src="https://img.shields.io/badge/Live%20Demo-NeuroSpeech-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=parth656&label=Profile%20Views&color=1e3a8a&style=for-the-badge" alt="Profile views"/>
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+![alt text](image.png)
+## 🌟 Featured Projects
 
-- 🎓 B.Tech in Computer Science — **PSIT Kanpur (2025)**
-- 🤖 Building AI systems using **Python, LangChain, LLMs and RAG**
-- 🗣️ Passionate about **Speech AI** and accessibility
-- 💡 Interested in **Agentic AI, NLP, Computer Vision and MLOps**
-- 🏆 Google Kickstart 2022 — Top 4%
-- 💻 380+ DSA problems solved
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🧠 [NeuroSpeech](https://github.com/parth656/neurospeech)
+AI speech-practice app for **cluttering and articulation**. Whisper transcription, IPA phonetics, word-by-word feedback, speech-rate and pause analysis, plus progress tracking.
 
-# 🌟 Featured Projects
+`Python` `Whisper` `Streamlit` `FFmpeg` `SQLite` `Docker`
 
-## 🧠 NeuroSpeech
-An AI-powered speech therapy platform featuring Whisper transcription, pronunciation analysis and adaptive speech practice.
+[▶ Live Demo](https://huggingface.co/spaces/parthbijpuriya/neurospeech)
 
-**Tech:** Python • Whisper • SQLite • Hugging Face
+</td>
+<td width="50%" valign="top">
 
----
+### ✈️ [QuanTrip AI](https://github.com/parth656/QuanTrip)
+AI travel planner that turns a trip request into a structured itinerary using LLMs.
 
-## 📚 LTM-RAG
+`Python` `LLMs` `LangChain` `FastAPI`
 
-- Document loaders
-- Chunking
-- ChromaDB
-- HuggingFace Embeddings
-- Gemini
-- LangChain
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 📚 LTM-RAG
+End-to-end **RAG pipeline**: document loaders → chunking → HuggingFace embeddings → ChromaDB → Gemini answers.
 
-## 🤖 RAGHAVA BOT
+`LangChain` `ChromaDB` `HuggingFace` `Gemini`
 
-Hybrid Retrieval + Gemini + Flask + Agent Workflow
+</td>
+<td width="50%" valign="top">
 
----
+### 🤖 RAGHAVA Bot
+Chatbot with **hybrid retrieval** (keyword + vector search) and an agent workflow on top of Gemini.
 
-## 🎤 SpeechFix
+`Flask` `Gemini` `Hybrid Search` `Agents`
 
-Offline speech correction using wav2vec2, Allosaurus and espeak-ng.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🎤 SpeechFix
+**Offline** speech-correction tool using phoneme recognition.
 
-## 😊 Emotion Detection
+`wav2vec2` `Allosaurus` `espeak-ng` `PyTorch`
 
-Real-time facial emotion recognition using OpenCV.
+</td>
+<td width="50%" valign="top">
 
----
+### 😊 Emotion Detection
+Real-time facial emotion recognition from webcam video.
 
-# 🛠 Tech Stack
+`OpenCV` `Deep Learning` `Python`
 
-### Languages
-Python • C++ • JavaScript • TypeScript • SQL
-
-### AI / ML
-PyTorch • TensorFlow • OpenCV • scikit-learn • Hugging Face
-
-### LLM
-LangChain • LangGraph • Ollama • Gemini • ChromaDB
-
-### Backend
-FastAPI • Flask
-
-### Databases
-SQLite • PostgreSQL • MongoDB
-
-### DevOps
-Docker • Kubernetes • Git • Linux
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Analytics
+## 🛠️ Tech Stack
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=parth656&show_icons=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=parth656"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,fastapi,flask,pytorch,tensorflow,sklearn,opencv&perline=10" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mongodb,docker,kubernetes,git,github,linux,vscode&perline=9" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth656&layout=compact"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=parth656&theme=flat"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parth656"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ---
 
-# 🎯 Current Focus
+## 📊 GitHub Stats
 
-- Agentic AI
-- LangGraph
-- Speech AI
-- Fine-tuning LLMs
-- RAG Evaluation
-- MLOps
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parth656&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=parth656&hide_border=true&theme=tokyonight" />
+</p>
 
----
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth656&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+</p>
 
-# 📌 Goals
-
-- Build production-ready AI systems
-- Contribute to Open Source
-- Publish research-quality AI projects
-- Improve accessibility through Speech AI
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=parth656&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
 
-# 📫 Connect
+## 🎯 Current Focus & Goals
 
-- GitHub: https://github.com/parth656
-- Hugging Face: https://huggingface.co/parthbijpuriya
+| 🔭 Working on | 🚀 Goals |
+|---|---|
+| Agentic AI with LangGraph | Ship production-ready AI systems |
+| RAG evaluation & LangSmith tracing | Contribute to open source |
+| Real-time Speech AI (Whisper + FastAPI) | Publish research-quality AI projects |
+| Fine-tuning LLMs & MLOps | Improve accessibility through Speech AI |
 
 ---
+
+## 📫 Connect
+
+<p>
+  <a href="https://github.com/parth656"><img src="https://img.shields.io/badge/GitHub-parth656-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://huggingface.co/parthbijpuriya"><img src="https://img.shields.io/badge/Hugging%20Face-parthbijpuriya-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+</p>
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+⭐ **If you find my work useful, consider starring a repository!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=110&section=footer" width="100%"/>
 
 </div>
