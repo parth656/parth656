@@ -1,143 +1,67 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Parth%20Bijpuriya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20GenAI%20%E2%80%A2%20RAG%20%E2%80%A2%20Speech%20AI&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=Software+Engineer+%40+LTIMindtree+(Business+AI);Building+LLM%2C+RAG+%26+Agentic+AI+Systems;Speech+AI+for+Accessibility;Python+%E2%80%A2+FastAPI+%E2%80%A2+LangChain+%E2%80%A2+LangGraph" alt="Typing SVG" />
-
-<p>
-  <a href="https://huggingface.co/parthbijpuriya"><img src="https://img.shields.io/badge/Hugging%20Face-parthbijpuriya-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-  <a href="https://huggingface.co/spaces/parthbijpuriya/neurospeech"><img src="https://img.shields.io/badge/Live%20Demo-NeuroSpeech-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=parth656&label=Profile%20Views&color=1e3a8a&style=for-the-badge" alt="Profile views"/>
-</p>
-
-</div>
-
----
-
-![alt text](image.png)
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [NeuroSpeech](https://github.com/parth656/neurospeech)
-AI speech-practice app for **cluttering and articulation**. Whisper transcription, IPA phonetics, word-by-word feedback, speech-rate and pause analysis, plus progress tracking.
-
-`Python` `Whisper` `Streamlit` `FFmpeg` `SQLite` `Docker`
-
-[▶ Live Demo](https://huggingface.co/spaces/parthbijpuriya/neurospeech)
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ [QuanTrip AI](https://github.com/parth656/QuanTrip)
-AI travel planner that turns a trip request into a structured itinerary using LLMs.
-
-`Python` `LLMs` `LangChain` `FastAPI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 LTM-RAG
-End-to-end **RAG pipeline**: document loaders → chunking → HuggingFace embeddings → ChromaDB → Gemini answers.
-
-`LangChain` `ChromaDB` `HuggingFace` `Gemini`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 RAGHAVA Bot
-Chatbot with **hybrid retrieval** (keyword + vector search) and an agent workflow on top of Gemini.
-
-`Flask` `Gemini` `Hybrid Search` `Agents`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎤 SpeechFix
-**Offline** speech-correction tool using phoneme recognition.
-
-`wav2vec2` `Allosaurus` `espeak-ng` `PyTorch`
-
-</td>
-<td width="50%" valign="top">
-
-### 😊 Emotion Detection
-Real-time facial emotion recognition from webcam video.
-
-`OpenCV` `Deep Learning` `Python`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
+<h1 align="center">Hey, I'm Parth 👋</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,fastapi,flask,pytorch,tensorflow,sklearn,opencv&perline=10" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mongodb,docker,kubernetes,git,github,linux,vscode&perline=9" />
+  <b>Software Engineer · AI &amp; Generative AI Developer</b><br/>
+  Building practical AI with LLMs, RAG, Speech AI &amp; Agentic workflows
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <a href="https://github.com/parth656"><img src="https://img.shields.io/github/followers/parth656?label=Followers&style=for-the-badge&logo=github&color=0d1117" alt="GitHub followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=parth656&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile views"/>
 </p>
-
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parth656&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=parth656&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth656&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=parth656&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
+🙋 About Me
+I like learning by building. Most of my projects start with one question: "Can AI make this experience better?"  
+Then I experiment, break things, fix them, and keep improving.
+🔭 Working on AI / GenAI applications
+🌱 Exploring Agentic AI, Advanced RAG, LangGraph & LLM fine-tuning
+🎙️ Interested in Speech AI and pronunciation analysis
+💬 Ask me about LLMs, RAG, FastAPI, Whisper
 ---
-
-## 🎯 Current Focus & Goals
-
-| 🔭 Working on | 🚀 Goals |
-|---|---|
-| Agentic AI with LangGraph | Ship production-ready AI systems |
-| RAG evaluation & LangSmith tracing | Contribute to open source |
-| Real-time Speech AI (Whisper + FastAPI) | Publish research-quality AI projects |
-| Fine-tuning LLMs & MLOps | Improve accessibility through Speech AI |
-
+🚀 Featured Projects
+Project	What it does
+🧠 NeuroSpeech	AI speech analysis: Whisper transcription, pronunciation, pauses, fillers & speaking rate
+✈️ QuanTrip AI	AI-assisted travel planning made smarter and simpler
+🤖 Qwen2.5 Fine-Tuning	Adapting open-source LLMs for specialized tasks
+🚗 Drive Awake	Computer vision based driver drowsiness detection
 ---
-
-## 📫 Connect
-
-<p>
-  <a href="https://github.com/parth656"><img src="https://img.shields.io/badge/GitHub-parth656-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://huggingface.co/parthbijpuriya"><img src="https://img.shields.io/badge/Hugging%20Face-parthbijpuriya-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+🧰 Tech Stack
+Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+AI / GenAI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square)
+ML / Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+Backend & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+---
+📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=parth656&theme=github-dark-blue&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
-
-<div align="center">
-
-⭐ **If you find my work useful, consider starring a repository!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=110&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/parth656?tab=repositories"><img src="https://img.shields.io/github/stars/parth656?label=Total%20Stars&style=for-the-badge&logo=github&color=0d1117" alt="Total stars"/></a>
+  <a href="https://github.com/parth656?tab=followers"><img src="https://img.shields.io/github/followers/parth656?label=Followers&style=for-the-badge&logo=github&color=0d1117" alt="Followers"/></a>
+</p>
+🧠 Project Activity
+Project	Language	Commits / month	Last commit
+NeuroSpeech	![Top language](https://img.shields.io/github/languages/top/parth656/neurospeech?style=flat-square)	![Commit activity](https://img.shields.io/github/commit-activity/m/parth656/neurospeech?style=flat-square)	![Last commit](https://img.shields.io/github/last-commit/parth656/neurospeech?style=flat-square)
+QuanTrip AI	![Top language](https://img.shields.io/github/languages/top/parth656/QuanTrip?style=flat-square)	![Commit activity](https://img.shields.io/github/commit-activity/m/parth656/QuanTrip?style=flat-square)	![Last commit](https://img.shields.io/github/last-commit/parth656/QuanTrip?style=flat-square)
+---
+🤝 Let's Connect
+<p align="left">
+  <a href="https://github.com/parth656"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <!-- To show LinkedIn: replace YOUR_LINKEDIN_ID below, then move the line above this comment.
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  -->
+</p>
+<p align="center"><b>Build. Experiment. Learn. Repeat. 🚀</b></p>
