@@ -22,7 +22,7 @@ I build AI applications across retrieval-augmented generation, LLM workflows, sp
 | **QuanTrip AI** | LLM-assisted travel planning and structured itineraries | [Code](https://github.com/parth656/QuanTrip) |
 | **LTM-RAG** | Document ingestion, embeddings, vector retrieval, and LLM question answering | [Code](https://github.com/parth656/LTM-RAG) |
 | **RAGHAVA Bot** | Hybrid retrieval and question-answering workflow | [Code](https://github.com/parth656/RAGHAVA-BOT-Q-A) |
-| **MarketPulse AI** | Retail analytics learning project spanning ML, forecasting, sentiment, retrieval, and APIs | [Code](https://github.com/parth656/Market-Pulse-AI-main) |
+| **MarketPulse AI** | Interactive frontend showcasing ML, computer vision, forecasting, and NLP model demos | [Frontend](https://github.com/parth656/MarketPulse-AI-Frontend) |
 | **Emotion Detection** | Facial emotion recognition using computer vision and deep learning | [Code](https://github.com/parth656/emotion_detect) |
 
 ## Skills and tools
